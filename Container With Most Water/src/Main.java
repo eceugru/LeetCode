@@ -48,8 +48,7 @@ public class Main {
         System.out.println(max);
 
 
-        Main m = new Main();
-
+        Main m = new Main()
 
         System.out.println();
 

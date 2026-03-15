@@ -4,9 +4,6 @@ import java.util.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String b = "bbbbbb";
-        Main main = new Main();
-        System.out.println(main.lengthOfLongestSubstring(b));
 
     }
 
